@@ -1,6 +1,6 @@
 /* 
 * Converts seconds to years, hours, minutes and seconds
-* Proudly made by Jannes Lambrecht himself
+* Proudly coded by Jannes Lambrecht
 */
 const secondsToConvert = 99876;
 const secondsInMinute = 60;
