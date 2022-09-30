@@ -122,3 +122,4 @@ for (let index = 0; index < 10; index++) {
     break;
     console.log("Dit gaat nooit gebeuren.")    
 }
+
