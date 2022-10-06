@@ -11,4 +11,13 @@ let functionOne = (name = "World", ...rest) => {
 }
 
 // functionOne();
+
 functionOne("Jannes", "sfsdfds", 4545, 34343);
+
+const functie = (parameter1, parameter2, ...rest) => {
+
+}
+
+const functie2 = function(parameter1, parameter2, ...rest) {
+    
+}
