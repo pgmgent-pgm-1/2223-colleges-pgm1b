@@ -34,3 +34,4 @@ const calcSomethingVeryDifficult = () =>
 
     return calcSomethingVerySimple() + calcSomethingVerySimple1 + calcSomethingVerySimple2;
 }
+
